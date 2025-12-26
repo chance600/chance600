@@ -20,8 +20,7 @@ Passionate environmentalist, curious biologist, self-motivated entrepreneur, and
 
 ## 📊 GitHub Stats
 
-![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=chance600&show_icons=true&theme=dark)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chance600&show_icons=true&theme=dark&hide_border=true)](https://github.com/chance600)
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alecbrewer/)
