@@ -18,7 +18,6 @@ Passionate environmentalist, curious biologist, self-motivated entrepreneur, and
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
 ![Alec's GitHub stats](https://github-readme-stats.vercel.app/api?username=chance600&show_icons=true&theme=dark)
@@ -27,7 +26,3 @@ Passionate environmentalist, curious biologist, self-motivated entrepreneur, and
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alecbrewer/)
 - 🌐 [Website](https://alecbrewer.com)
-- 🔬 [Ourobio](https://www.ourobio.com)
-
----
-*"Passionate about building sustainable solutions at the intersection of biology, technology, and business."*
