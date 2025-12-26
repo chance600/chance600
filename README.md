@@ -8,17 +8,7 @@
 
 ## 🤔 About Me
 
-Passionate environmentalist, curious biologist, self-motivated entrepreneur, and avid connector. I'm the Co-Founder & CEO at **Ourobio (Transfoam LLC)**, working on converting industrial waste into sustainable biomaterials.
-
-On a mission to change the way we think about self, wealth, and the world, together.
-
-## 🚀 Core Skills
-
-- **Synthetic Biology** - Metabolic engineering, strain development
-- **Biomaterials** - PHAs, biodegradable plastics 
-- **Business Development** - Customer outreach, strategic partnerships
-- **Leadership** - Project management, team building
-- **Python & Web Development** - Automation, data analysis
+Passionate environmentalist, curious biologist, self-motivated entrepreneur, and avid connector.
 
 ## 💻 Tech Stack
 
@@ -28,24 +18,6 @@ On a mission to change the way we think about self, wealth, and the world, toget
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔭 Current Projects
-
-- **BioModelBench** - Building the "HuggingFace" for computational biology tools
-- **Ourobio** - Converting whey waste into colored PHAs for sustainable plastics
-- **Network Automation** - AI-powered tools for outreach and workflow optimization
-
-## 🏆 Recent Recognition
-
-- **Indiana Mira Awards** - Tech 25 Honorees (2025)
-- **Conexus Indiana Rising 30** (2024)
-- **TiE DC Pitch Competition** - 2nd Place (2022)
-- **Kathryne Carr Entrepreneurial Excellence Award** (2021)
-
-## 🎓 Education
-
-**University of Virginia**
-- B.S. in Biomedical Engineering (2017-2021)
-- iGEM 2019: Gold Medal & Best Environmental Project Nomination
 
 ## 📊 GitHub Stats
 
